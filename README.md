@@ -1,5 +1,5 @@
-### Hi there 👋 My name is Mahmoud Alnakeeb 22 years old 
-### Fullstack Javascript developer
+## Hi there 👋 My name is Mahmoud Alnakeeb 22 years old 
+## Fullstack Javascript developer
 ----------
 
 ### Front End
