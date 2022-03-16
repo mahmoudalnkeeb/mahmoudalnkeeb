@@ -12,3 +12,5 @@ HTML , CSS , JS my love😄 ,learning [react](https://reactjs.org/)
 - Automation with bash scripts, version control
 
 
+---------------------------------------------------
+![mahmoudalnkeeb's GitHub stats](https://github-readme-stats.vercel.app/api?username=mahmoudalnkeeb&show_icons=true)
