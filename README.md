@@ -1,4 +1,4 @@
-BEGAIN
+BEGIN
 
   `SELECT header1 FROM profiles WHERE username = mahmoudalnkeeb`
 
@@ -7,7 +7,7 @@ BEGAIN
 
   `SELECT abstract FROM profiles WHERE username = mahmoudalnkeeb`
 
-I'm mahmoud alnakeeb a backend developer have a set of skills in programming generally and web development especially 
+I'm mahmoud alnakeeb a backend developer have a set of skills in programming generally and web development mainly 
 Summarized in :
 
   `SELECT skills FROM profile WHERE username = mahmoudalnkeeb`
