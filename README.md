@@ -18,12 +18,15 @@ Summarized in :
 technologies that i use:
   
   `SELECT technologies FROM profiles WHERE username = mahmoudalnkeeb`
-
+  
+- html , css
+- Javascript 
+- Typescript 
 - [node.js](https://nodejs.org/en/) 
 - [express.js](https://expressjs.com/)
 - SQL
-- relational database : [PostgreSQL](https://www.postgresql.org/) 
-- non relational database :[MongoDB](https://www.mongodb.com/)
+- [PostgreSQL](https://www.postgresql.org/) 
+- [MongoDB](https://www.mongodb.com/)
 - unit testing using [jest](https://jestjs.io/) and [jasmine](https://jasmine.github.io/)
 - CI/CD using [CircleCI](https://circleci.com/)
 - cloud computing services like [AWS](https://aws.amazon.com/) , [Microsoft Azure](https://azure.microsoft.com/) but more familiar with AWS
