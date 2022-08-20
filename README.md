@@ -1,4 +1,4 @@
-# Hi visitors enjoy my spaghetti code 😁
+# Hi visitor enjoy my spaghetti code 😁
 ![Role](https://img.shields.io/badge/Backend%20-Javascript-%23f1c40f)
 
 I have a set of skills in programming generally and web development especially 
