@@ -5,34 +5,21 @@ BEGIN
 # Hi visitor enjoy my spaghetti code 😁
 ![Role](https://img.shields.io/badge/Backend%20-Javascript-%23f1c40f)
 
-  `SELECT abstract FROM profiles WHERE username = mahmoudalnkeeb`
+ Junior self-educated backend developer with
+1 year of experience in NodeJs, Express, SQL, and DBMS like PostgreSQL and MongoDB.
 
-I'm mahmoud alnakeeb a backend developer have a set of skills in programming generally and web development mainly 
-Summarized in :
-
-  `SELECT skills FROM profile WHERE username = mahmoudalnkeeb`
-
-- Good understanding of OOP Principles and how to use it in coding
-- Problem solving skills 
-
-technologies that i use:
-  
-  `SELECT technologies FROM profiles WHERE username = mahmoudalnkeeb`
-  
-- html , css
-- Javascript 
-- Typescript 
-- [node.js](https://nodejs.org/en/) 
-- [express.js](https://expressjs.com/)
-- SQL
-- [PostgreSQL](https://www.postgresql.org/) 
-- [MongoDB](https://www.mongodb.com/)
-- unit testing using [jest](https://jestjs.io/) and [jasmine](https://jasmine.github.io/)
-- CI/CD using [CircleCI](https://circleci.com/)
-- cloud computing services like [AWS](https://aws.amazon.com/) , [Microsoft Azure](https://azure.microsoft.com/) but more familiar with AWS
-- Automation with bash scripts, version control
-- some cSharp knowledge , also i wrote some programs with visual basic LOL 😂
-
+- good understanding of microservices architecture
+- good knowledge of typescript
+- good problem-solving skills
+- good knowledge of  declarative programming
+- good knowledge of FP
+- basic knowledge of OOP
+- basic knowledge of data structures and algorithms
+- basic knowledge in unit testing
+- experiencing with version control systems
+- some experience in -docker-
+- some knowledge in c#, visual basic 
+- good knowledge of some DevOps concepts like CI/CD
   `SELECT stats FROM profiles WHERE username = mahmoudalnkeeb`
 
 ---
