@@ -7,7 +7,7 @@
 
 <h3 align="left">・About Me</h3>
 
-I'm a passionate developer with expertise in building scalable and efficient backend systems. I love exploring new technologies, contributing to open-source projects, and solving complex problems. When I'm not coding, you can find me tinkering with Linux or diving into the world of Rust and Go.
+I'm a passionate developer with expertise in building scalable and efficient backend systems. I love exploring new technologies, contributing to open-source projects, and solving complex problems. When I'm not coding, you can find me tinkering with Linux or learning new skills.
 
 - 🌱 **Currently Learning:** Go, Rust and low system design
 - 💬 **Ask me about:** Backend Development, Node.js, and Databases
