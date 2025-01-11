@@ -1,21 +1,16 @@
-<h2 align="left">Hi! I'm Mahmoud Alnakeeb, Software Developer.</h2>
+<h2 align="left">Hi! I'm Mahmoud Alnakeeb, a Software Developer 👋</h2>
 
-###
+### About Me
 
+I'm a passionate developer with expertise in building scalable and efficient backend systems. I love exploring new technologies, contributing to open-source projects, and solving complex problems. When I'm not coding, you can find me tinkering with Linux or learning new stuff or just chiling on discord.
 
-###
-
-<h3 align="left">・About Me</h3>
-
-I'm a passionate developer with expertise in building scalable and efficient backend systems. I love exploring new technologies, contributing to open-source projects, and solving complex problems. When I'm not coding, you can find me tinkering with Linux or learning new skills.
-
-- 🌱 **Currently Learning:** Go, Rust and low system design
+- 🌱 **Currently Learning:** Go, Rust, and low-level system design
 - 💬 **Ask me about:** Backend Development, Node.js, and Databases
-- ⚡ **Fun Fact:** I use arch BTW.
+- ⚡ **Fun Fact:** I use Arch, BTW. 😎
 
-###
+---
 
-<h3 align="left">・Tech Stack</h3>
+### Tech Stack
 
 #### Languages
 <div align="left">
@@ -60,18 +55,18 @@ I'm a passionate developer with expertise in building scalable and efficient bac
   <img src="https://skillicons.dev/icons?i=md" height="30" alt="markdown logo"  />
 </div>
 
-###
+---
 
-<h3 align="left">・Featured Projects</h3>
+### Featured Projects
 
-- **[shoperz](https://github.com/mahmoudalnkeeb/shoperz):** An ecommerce with most important features for ecommerce. made to practice real-life-like project.
-- **[aternose-discord-bot](https://github.com/mahmoudalnkeeb/aternos-discord-bot):** Discord bot integrates with Puppeteer for starting/stopping your mc servers from discord based on configured permissions.
-- **[ImageProcessingAPI](https://github.com/mahmoudalnkeeb/ImageProcessingAPI):** An API for processing images like resize, crop, change format, and adding watermark.
-- **[Aiticle](https://github.com/mahmoudalnkeeb/aiticle):** Tool that help you generate seo friendly articles with ai powered by `llama3-8b-8192`.
+- **[Shoperz](https://github.com/mahmoudalnkeeb/shoperz):** An e-commerce platform with essential features, designed to simulate real-world projects.
+- **[Aternos Discord Bot](https://github.com/mahmoudalnkeeb/aternos-discord-bot):** A Discord bot integrated with Puppeteer to start/stop Minecraft servers directly from Discord.
+- **[ImageProcessingAPI](https://github.com/mahmoudalnkeeb/ImageProcessingAPI):** An API for image processing tasks like resizing, cropping, format conversion, and watermarking.
+- **[Aiticle](https://github.com/mahmoudalnkeeb/aiticle):** A tool to generate SEO-friendly articles using AI, powered by `llama3-8b-8192`.
 
-###
+---
 
-<h3 align="left">・Let's Connect</h3>
+### Let's Connect
 
 <div align="left">
   <a href="mailto:mahmoudalnakeeb@outlook.com" target="_blank">
@@ -82,20 +77,21 @@ I'm a passionate developer with expertise in building scalable and efficient bac
   </a>
 </div>
 
-###
+---
 
-<h3 align="left">・Blog</h3>
+### Blog
 
-> **Soon**
+> **Coming Soon**  
+> Stay tuned for my blog where I'll share insights on tech, programming, and my journey as a developer!
 
-###
+---
 
-<h3 align="left">・Quote of the Day</h3>
+### Quote of the Day
 
-> "Life shows me my flaws, and more knowledge reveals my ignorance." ― Imam Al-Shafi'
+> "Life shows me my flaws, and more knowledge reveals my ignorance." ― Imam Al-Shafi'i
 
-###
+---
 
-<h3 align="left">🎉 Thanks for Visiting!</h3>
+### 🎉 Thanks for Visiting!
 
-Feel free to explore my repositories and reach out if you'd like to collaborate or chat! 😄
+Feel free to explore my repositories and reach out if you'd like to collaborate or chat! 😄 
