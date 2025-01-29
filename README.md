@@ -5,8 +5,8 @@
 I'm a passionate developer with expertise in building scalable and efficient backend systems. I love exploring new technologies, contributing to open-source projects, and solving complex problems. When I'm not coding, you can find me tinkering with Linux or learning new stuff or just chiling on discord.
 
 - 🌱 **Currently Learning:** Go, Rust, and low-level system design
-- 💬 **Ask me about:** Backend Development, Node.js, and Databases
-- ⚡ **Fun Fact:** I use Arch, BTW. 😎
+- 💬 **Ask me about:** Backend Development, Node.js, System Design, and Databases
+- ⚡ **Fun Fact:** I use Arch, BTW.
 
 ---
 
