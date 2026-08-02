@@ -1,97 +1,51 @@
-<h2 align="left">Hi! I'm Mahmoud Alnakeeb, a Software Developer 👋</h2>
+# Mahmoud Alnakeeb
 
-### About Me
+**Backend Engineer · AI Voice & SaaS**
 
-I'm a passionate developer with expertise in building scalable and efficient backend systems. I love exploring new technologies, contributing to open-source projects, and solving complex problems. When I'm not coding, you can find me tinkering with Linux or learning new stuff or just chiling on discord.
+I build reliable backend systems for AI voice and multi-tenant SaaS products—from real-time call orchestration and secure APIs to observability, payments, data migrations, and automation.
 
-- 🌱 **Currently Learning:** Go, Rust, and low-level system design
-- 💬 **Ask me about:** Backend Development, Node.js, System Design, and Databases
-- ⚡ **Fun Fact:** I use Arch, BTW.
+[Portfolio](https://mahmoudalnakeeb.com) · [LinkedIn](https://www.linkedin.com/in/mahmoud-alnakeeb) · [GitHub](https://github.com/mahmoudalnkeeb) · [Email](mailto:hello@mahmoudalnakeeb.com)
 
----
+## At a glance
 
-### Tech Stack
+| 700 ms | 50+ | 1,000 |
+| ---: | ---: | ---: |
+| Reported voice TTFA | REST endpoints delivered | Tenant-scale target |
 
-#### Languages
-<div align="left">
-  <img src="https://skillicons.dev/icons?i=js" height="30" alt="javascript logo"  />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=ts" height="30" alt="typescript logo"  />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=go" height="30" alt="go logo"  />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=rust" height="30" alt="rust logo"  />
-</div>
+I currently work on TypeScript APIs and real-time voice systems at **Olimi AI**. My recent work includes keeping live AI conversations responsive under load, building tenant-safe communications platforms, and automating content and media workflows.
 
-#### Backend Stack
-<div align="left">
-  <img src="https://skillicons.dev/icons?i=nodejs" height="30" alt="nodejs logo"  />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=express" height="30" alt="express logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/redis/redis-original.svg" height="30" alt="redis logo"  />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=mongodb" height="30" alt="mongodb logo"  />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=postgres" height="30" alt="postgresql logo"  />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=sqlite" height="30" alt="sqlite logo"  />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=aws" height="30" alt="amazonwebservices logo"  />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=jest" height="30" alt="jest logo"  />
-</div>
+## Toolbox
 
-#### Tools
-<div align="left">
-  <img src="https://skillicons.dev/icons?i=git" height="30" alt="git logo"  />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=bash" height="30" alt="bash logo"  />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=neovim" height="30" alt="neovim logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" height="30" alt="linux logo"  />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=md" height="30" alt="markdown logo"  />
-</div>
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?logo=typescript&logoColor=white)
+![Node.js](https://img.shields.io/badge/Node.js-339933?logo=nodedotjs&logoColor=white)
+![NestJS](https://img.shields.io/badge/NestJS-E0234E?logo=nestjs&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?logo=postgresql&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-47A248?logo=mongodb&logoColor=white)
+![Redis](https://img.shields.io/badge/Redis-FF4438?logo=redis&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?logo=docker&logoColor=white)
+![AWS](https://img.shields.io/badge/AWS-232F3E?logo=amazonwebservices&logoColor=white)
+![OpenTelemetry](https://img.shields.io/badge/OpenTelemetry-000000?logo=opentelemetry&logoColor=white)
 
----
+I work primarily with REST APIs, WebSockets, background queues, LLM integrations, observability, and relational and document databases.
 
-### Featured Projects
+## Featured projects
 
-- **[Shoperz](https://github.com/mahmoudalnkeeb/shoperz):** An e-commerce platform with essential features, designed to simulate real-world projects.
-- **[Aternos Discord Bot](https://github.com/mahmoudalnkeeb/aternos-discord-bot):** A Discord bot integrated with Puppeteer to start/stop Minecraft servers directly from Discord.
-- **[ImageProcessingAPI](https://github.com/mahmoudalnkeeb/ImageProcessingAPI):** An API for image processing tasks like resizing, cropping, format conversion, and watermarking.
-- **[Aiticle](https://github.com/mahmoudalnkeeb/aiticle):** A tool to generate SEO-friendly articles using AI, powered by `llama3-8b-8192`.
+### [trello.auto](https://github.com/mahmoudalnkeeb/trello.auto)
 
----
+A secure, agent-oriented Trello CLI with profiles, workflow recipes, stable JSON output, and preview-confirmed writes. Built with JavaScript and Node.js.
 
-### Let's Connect
+### [OwlTabs](https://github.com/mahmoudalnkeeb/owltabs)
 
-<div align="left">
-  <a href="mailto:mahmoudalnakeeb@outlook.com" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=Outlook&logo=outlook&label=&color=2467d4&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="outlook logo"  />
-  </a>
-  <a href="http://linkedin.com/in/mahmoud-alnakeeb" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="linkedin logo"  />
-  </a>
-</div>
+A focused browser new-tab page for software engineers, combining RSS feeds, quick links, saved articles, and a Gemini-powered assistant in a keyboard-first interface. Built with TypeScript and Vite for Manifest V3.
 
----
+### [Blueprints (b8s)](https://github.com/mahmoudalnkeeb/b8s)
 
-### Blog
+An AI-agent orchestration platform for multi-provider LLM workflows and retrieval-augmented generation, with Qdrant-backed ingestion, usage tracking, background jobs, and containerized deployment. Built as a TypeScript monorepo.
 
-> **Coming Soon**  
-> Stay tuned for my blog where I'll share insights on tech, programming, and my journey as a developer!
+## Connect
 
----
+I am open to backend engineering opportunities, technical collaboration, and conversations about dependable AI systems.
 
-### Quote of the Day
-
-> "Life shows me my flaws, and more knowledge reveals my ignorance." ― Imam Al-Shafi'i
-
----
-
-### 🎉 Thanks for Visiting!
-
-Feel free to explore my repositories and reach out if you'd like to collaborate or chat! 😄 
+- [mahmoudalnakeeb.com](https://mahmoudalnakeeb.com)
+- [linkedin.com/in/mahmoud-alnakeeb](https://www.linkedin.com/in/mahmoud-alnakeeb)
+- [hello@mahmoudalnakeeb.com](mailto:hello@mahmoudalnakeeb.com)
