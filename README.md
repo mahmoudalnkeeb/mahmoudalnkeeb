@@ -2,7 +2,6 @@
 
 Backend engineer in Cairo, working with TypeScript, Node.js, Go, PostgreSQL, Redis, and Docker.
 
-I build APIs and backend systems for AI voice and multi-tenant SaaS products. At Olimi AI, I work on the voice engine, CRM, and voice experience widgets. Recent work includes handling concurrent calls at 700 ms TTFA, migrating legacy MySQL data to PostgreSQL, and adding observability with OpenTelemetry, Prometheus, Grafana, and Loki.
 
 [Portfolio](https://mahmoudalnakeeb.com) · [LinkedIn](https://www.linkedin.com/in/mahmoud-alnakeeb) · [Email](mailto:hello@mahmoudalnakeeb.com)
 
