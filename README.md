@@ -5,7 +5,7 @@ Backend engineer in Cairo, working with TypeScript, Node.js, Go, PostgreSQL, Red
 
 [Portfolio](https://mahmoudalnakeeb.com) · [LinkedIn](https://www.linkedin.com/in/mahmoud-alnakeeb) · [Email](mailto:hello@mahmoudalnakeeb.com)
 
-## Selected work
+## You may check those
 
 ### [Blueprints (b8s)](https://github.com/mahmoudalnkeeb/b8s)
 
