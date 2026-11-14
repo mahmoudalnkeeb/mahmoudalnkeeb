@@ -5,6 +5,9 @@ Backend engineer in Cairo, working with TypeScript, Node.js, NestJS, PostgreSQL,
 
 [Portfolio](https://mahmoudalnakeeb.com) · [LinkedIn](https://www.linkedin.com/in/mahmoud-alnakeeb) · [Email](mailto:hello@mahmoudalnakeeb.com)
 
+> "Life shows me my flaws, and more knowledge reveals my ignorance."
+> ― Imam Al-Shafi'i
+
 ## Highlighted Projects 
 
 ### [homeport](https://github.com/mahmoudalnkeeb/homeport)
